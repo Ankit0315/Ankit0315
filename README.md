@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit0315&label=Profile%20views&color=0e75b6&style=flat" alt="ankit0315" /> </p>
 <img align="right" alt="Coding" width="300" height='300'  src='https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932'>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** && **Node.js**
 
 - 👬I’m looking to collaborate on **Frontend Project**
 
