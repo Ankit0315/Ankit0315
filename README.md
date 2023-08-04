@@ -1,4 +1,4 @@
-<img src ='https://as2.ftcdn.net/v2/jpg/02/83/46/33/1000_F_283463385_mfnrx6RPU3BqObhVuVjYZjeZ5pegE7xq.jpg' width=100% height=350 style='clip:rect(0px,1000px,100px,50px);'>
+![imgs](https://github.com/Ankit0315/Ankit0315/assets/117643219/21e91361-7627-4db9-b5a2-285a47c887e5)
 <h1 align="center">Hi 👋, I'm Ankit Kumar Rai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
